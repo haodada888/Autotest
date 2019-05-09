@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="param">
+    <test name="param1">
+        <classes>
+            <parameter name="name" value="lisi"></parameter>
+            <parameter name="age" value="20"></parameter>
+            <class name="com.whh.testng.parameter.Param1"></class>
+        </classes>
+    </test>
+</suite>

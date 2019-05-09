@@ -1,0 +1,17 @@
+[
+  {
+    "description": "6",
+
+    "request": {
+      "uri": "/redirect",
+      "method": "post"
+    },
+    "redirectTo": "http://www.baidu.com",
+    "response": {
+      "text": "666"
+    }
+
+  }
+
+
+]

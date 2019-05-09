@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="thread" parallel="classs" thread-count="5">
+
+    <test name="threadtest1">
+        <classes name="a">
+            <class name="com.whh.testng.thread.MultiThread"></class>
+            <class name="com.whh.testng.BasicTest"></class>
+            <class name="com.whh.testng.thread.MultiThread"></class>
+        </classes>
+        <classes name="c">
+            <class name="com.whh.testng.thread.MultiThread"></class>
+            <class name="com.whh.testng.BasicTest"></class>
+            <class name="com.whh.testng.thread.MultiThread"></class>
+        </classes>
+    </test>
+    <test name="threadtest2">
+        <classes name="b">
+            <class name="com.whh.testng.thread.MultiThread"></class>
+            <class name="com.whh.testng.BasicTest"></class>
+        </classes>
+
+    </test>
+
+</suite>

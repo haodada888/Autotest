@@ -1,0 +1,21 @@
+[
+  {
+    "description": "6",
+    "request": {
+      "uri": "/getheaders",
+      "method": "post",
+      "headers": {
+        "content-type": "application/json"
+      },
+      "json": {
+        "name": "lisi"
+      }
+    },
+    "response": {
+      "json": {
+        "lisi": "success"
+      }
+    }
+  }
+
+]

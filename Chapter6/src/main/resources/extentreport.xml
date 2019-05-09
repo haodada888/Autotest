@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="extent">
+    <test name="report">
+
+        <classes>
+            <class name="com.whh.extentreport.ExtentReport1">
+               <methods>
+                   <include name="test1"></include>
+                   <include name="test2"></include>
+                   <include name="test3"></include>
+                   <include name="log"></include>
+               </methods>
+
+            </class>
+        </classes>
+
+    </test>
+
+    <listeners>
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>
+    </listeners>
+
+</suite>
