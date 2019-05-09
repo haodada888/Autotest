@@ -1,0 +1,19 @@
+[
+  {
+    "description": "4",
+    "request": {
+      "uri": "/cookies",
+      "method": "get"
+
+    },
+    "response": {
+      "cookies": {
+        "login": "true"
+      },
+
+      "text": "test5555"
+
+    }
+  }
+
+]

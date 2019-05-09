@@ -1,0 +1,16 @@
+[
+  {
+    "description": "3",
+    "request":{
+      "uri": "/postdemo",
+      "method": "post",
+      "forms": {
+        "name": "wanghao",
+        "age": "20"
+      }
+    },
+    "response": {
+      "text": "test3"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "description": "demo2",
+    "request": {
+      "uri": "/getdemo",
+      "method": "get",
+      "queries": {
+        "name": "wanghao",
+        "age": "20"
+      }
+    },
+
+    "response":{
+      "text":"test2222"
+
+    }
+  }
+]
