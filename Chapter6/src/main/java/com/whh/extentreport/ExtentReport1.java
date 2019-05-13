@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class ExtentReport1 {
     @Test
     public void test1(){
-        Assert.assertEquals(1,2);
+        Assert.assertEquals(1,1);
     }
 
     @Test
