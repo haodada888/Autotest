@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d59df00-5c13-4f05-95f9-ee307a9fc478" name="Default Changelist" comment="">
+    <list default="true" id="9d59df00-5c13-4f05-95f9-ee307a9fc478" name="Default Changelist" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/whh/extentreport/ExtentReport1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/whh/extentreport/ExtentReport1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/test-output/report.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
@@ -41,7 +46,61 @@
     <favorites_list name="Autotest" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/group.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/whtestNg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter6/test-output/emailable-report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-861" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/extentreport.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/groups/GroupClass4.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/resources/group.xml" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/Exception.java" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/suite/PayTest.java" />
@@ -76,7 +134,6 @@
         <option value="$PROJECT_DIR$/Chapter5/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter6/src/main/resources/extentreport.xml" />
-        <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java" />
         <option value="$PROJECT_DIR$/Chapter7/操作说明" />
         <option value="$PROJECT_DIR$/Chapter7/start1.json" />
         <option value="$PROJECT_DIR$/Chapter7/startPost.json" />
@@ -90,7 +147,6 @@
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/whh/httpclient/test1/Client1.java" />
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/Client/ClientTest.java" />
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/whh/client/Client.java" />
-        <option value="$PROJECT_DIR$/Chapter6/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/T2.java" />
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/whh/client/T2.java" />
         <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/whh/client/ClientTest.java" />
@@ -107,6 +163,9 @@
         <option value="$PROJECT_DIR$/Chapter7/startGetCookies.json" />
         <option value="$PROJECT_DIR$/comwhspringboot/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter10/pom.xml" />
+        <option value="$PROJECT_DIR$/jartest/src/main/java/testjar/TestB.java" />
+        <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java" />
+        <option value="$PROJECT_DIR$/Chapter6/pom.xml" />
       </list>
     </option>
   </component>
@@ -122,11 +181,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Chapter5" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Chapter6" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Chapter6" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -159,11 +219,59 @@
               <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="Autotest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="extentreport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -180,12 +288,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557377666461" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557782511774" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -216,25 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GetTest.test3">
-    <configuration name="Depend.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.whh.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.whh.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.whh.testng.Depend" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG./wh/Autotest/Chapter6/src/main/resources/extentreport.xml">
     <configuration name="GetTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Chapter9" />
       <extension name="coverage">
@@ -325,13 +416,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/wh/Autotest/Chapter6/src/main/resources/extentreport.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/extentreport.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./wh/Autotest/Chapter6/src/main/resources/extentreport.xml" />
         <item itemvalue="TestNG.GetTest.test3" />
         <item itemvalue="TestNG.PostTest.test3" />
         <item itemvalue="TestNG.PostTest.test2" />
         <item itemvalue="TestNG.GetTest.test2" />
-        <item itemvalue="TestNG.GetTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -390,16 +491,12 @@
       <workItem from="1554812068021" duration="1116000" />
       <workItem from="1557376772005" duration="146000" />
       <workItem from="1557377487720" duration="225000" />
+      <workItem from="1557734134598" duration="1018000" />
+      <workItem from="1557765424453" duration="3898000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PostTest_test3 - 2019.04.08 at 17h 16m 56s.xml">
-      <configuration name="PostTest.test3" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PostTest_test3 - 2019.04.08 at 17h 17m 43s.xml">
-      <configuration name="PostTest.test3" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PostTest_test2 - 2019.04.08 at 17h 25m 55s.xml">
       <configuration name="PostTest.test2" configurationId="TestNG" />
     </history-entry>
@@ -424,14 +521,21 @@
     <history-entry file="GetTest_test3 - 2019.04.08 at 17h 59m 55s.xml">
       <configuration name="GetTest.test3" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_wh_Autotest_Chapter6_src_main_resources_extentreport_xml - 2019.05.14 at 05h 07m 53s.xml">
+      <configuration name="/wh/Autotest/Chapter6/src/main/resources/extentreport.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_wh_Autotest_Chapter6_src_main_resources_extentreport_xml - 2019.05.14 at 05h 09m 01s.xml">
+      <configuration name="/wh/Autotest/Chapter6/src/main/resources/extentreport.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115536000" />
+    <option name="totallyTimeSpent" value="120452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1024" height="706" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.28439426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822065" visible="true" weight="0.3059548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24948665" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,7 +544,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5017794" side_tool="true" weight="0.3829569" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989733" weight="0.3202847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989733" visible="true" weight="0.3202847" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33985764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,73 +576,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/thread/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/thread/MultiThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/TimeOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/parameter/Param1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extentreport/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Chapter5/gggggg.iml" />
-    <entry file="file://$PROJECT_DIR$/Chapter5/target/classes/com/whh/testng/groups/GroupClass1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/chapter6/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Chapter5/Chapter5.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/whh/testng/BasicTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -553,25 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/extentreport.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -605,13 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/whtestNg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -706,13 +717,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/comwhspringboot/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -761,6 +765,86 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jartest/src/main/java/testjar/TestA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jartest/src/main/java/testjar/TestB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jartest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/group.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/whtestNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/target/surefire-reports/old/extent/classes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/target/surefire-reports/junitreports/TEST-com.whh.extentreport.ExtentReport1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/target/surefire-reports/extent/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/target/surefire-reports/extent/report.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/target/surefire-reports/extent/testng-failed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/test-output/emailable-report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/extentreport.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/test-output/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/whh/extentreport/ExtentReport1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
         </state>
       </provider>
     </entry>
