@@ -12,7 +12,7 @@ public class ExtentReport1 {
 
     @Test
     public void test2(){
-        Assert.assertEquals(1,1);
+        Assert.assertEquals(1,2);
     }
 
     @Test
