@@ -17,7 +17,7 @@ public class ExtentReport1 {
 
     @Test
     public void  test3(){
-        Assert.assertEquals(2,2);
+        Assert.assertEquals(2,3);
     }
 
     public void log(){
